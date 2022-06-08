@@ -43,4 +43,6 @@ class AppConfig{
         return new Encoder(urlEncoder);
     }
 
+    // 이클립스의 jsp:usebean 과 어떤 관계고 어떻게 연결이 되어있는것인지 알아보지!!
+
 }
