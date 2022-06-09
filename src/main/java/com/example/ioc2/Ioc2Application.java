@@ -44,5 +44,6 @@ class AppConfig{
     }
 
     // 이클립스의 jsp:usebean 과 어떤 관계고 어떻게 연결이 되어있는것인지 알아보지!!
+    // 액션태그의 활용 / get으로 받아오기/ bean 의 사용
 
 }
